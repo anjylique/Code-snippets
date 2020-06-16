@@ -1,0 +1,81 @@
+[2020/05/13 10:58:24] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'
+[2020/05/13 10:58:24] [INFO] [originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 10:58:24] [INFO] [originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`
+[2020/05/13 10:58:41] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'
+[2020/05/13 10:58:41] [INFO] [originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 10:58:41] [INFO] [originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`
+[2020/05/13 10:58:43] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'
+[2020/05/13 10:58:43] [INFO] [originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 10:58:43] [INFO] [originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`
+[2020/05/13 10:58:45] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'
+[2020/05/13 10:58:45] [INFO] [originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 10:58:45] [INFO] [originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`
+[2020/05/13 10:59:13] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'
+[2020/05/13 10:59:13] [INFO] [originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 10:59:13] [INFO] [originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`
+[2020/05/13 10:59:18] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'
+[2020/05/13 10:59:18] [INFO] [originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 10:59:18] [INFO] [originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`
+[2020/05/13 10:59:19] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'
+[2020/05/13 10:59:19] [INFO] [originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook`
+[2020/05/13 10:59:19] [INFO] [originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`
+[2020/05/13 11:01:51] [INFO] [originalform_ideabook]新データ：[ID:10]{"name":"\u30c6\u30b9\u30c8","receiptno":"9999004","office_name":"\u30c6\u30b9\u30c8","department":"\u30c6\u30b9\u30c8","tel":"000-000-000","fax":"--","mail":"mary.angeleque.padon@pripress.co.jp","zip":"064-0810","addr1":"\u5317\u6d77\u9053\u672d\u5e4c\u5e02\u4e2d\u592e\u533a","addr2":"\u5357\u5341\u6761\u897f","amount":"1","freetext":"","dt_created":"2020-05-13 11:01:51"}
+[2020/05/13 11:01:54] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'
+[2020/05/13 11:01:54] [INFO] [originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 11:01:54] [INFO] [originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`
+[2020/05/13 11:05:51] [INFO] QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'
+[2020/05/13 11:05:51] [INFO] [originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0
+[2020/05/13 11:05:51] [INFO] [originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`
+[2020/05/13 11:26:32] [INFO] QUERY："SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 11:26:32] [INFO] [originalform_ideabook]SELECT："SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:26:32] [INFO] [originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`
+[2020/05/13 11:26:56] [INFO] [originalform_ideabook]新データ：[ID:11]{"name":"テスト","receiptno":"9999005","office_name":"テスト","department":"テスト","tel":"000-000-000","fax":"--","mail":"mary.angeleque.padon@pripress.co.jp","zip":"064-0810","addr1":"北海道札幌市中央区","addr2":"南十条西","amount":"1","freetext":"","dt_created":"2020-05-13 11:26:56"}
+[2020/05/13 11:28:45] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 11:28:45] [INFO] "[originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:28:45] [INFO] "[originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`"
+[2020/05/13 11:33:43] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 11:33:43] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:33:43] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 11:36:22] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 11:36:22] [INFO] "[originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:36:22] [INFO] "[originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`"
+[2020/05/13 11:36:26] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 11:36:26] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:36:26] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 11:36:28] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 11:36:28] [INFO] "[originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:36:28] [INFO] "[originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`"
+[2020/05/13 11:36:31] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 11:36:31] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:36:31] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 11:36:32] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 11:36:32] [INFO] "[originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:36:32] [INFO] "[originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`"
+[2020/05/13 11:49:15] [INFO] "[originalform_mask]新データ：[ID:44]{\"name\":\"てすとたんとう\",\"receiptno\":\"1043048\",\"office_name\":\"きぎょうめい\",\"department\":\"ぶしょめい\",\"tel\":\"000-0000-0000\",\"fax\":\"--\",\"mail\":\"minoru.otoshi@pripress.co.jp\",\"zip\":\"000-0000\",\"addr1\":\"じゅうしょ１\",\"addr2\":\"\",\"nouhin_check\":\"1\",\"nouhin_addr\":\"（ご請求先住所と同じ）\",\"amount1\":\"20\",\"amount2\":\"\",\"amount3\":\"\",\"alcohol\":\"\",\"camera_dome\":\"0\",\"camera_guntype\":\"0\",\"payment_type\":\"事前振込\",\"howknow\":\"ああ\",\"freetext\":\"\",\"spare01\":\"1234asdf\",\"dt_created\":\"2020-05-13 11:49:15\"}"
+[2020/05/13 11:49:24] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 11:49:24] [INFO] "[originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:49:24] [INFO] "[originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`"
+[2020/05/13 11:49:43] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 11:49:43] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:49:43] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 11:50:43] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 11:50:43] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 11:50:43] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 12:16:45] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 12:16:45] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask`"
+[2020/05/13 12:16:45] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 13:48:38] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 13:48:38] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 13:48:38] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 13:49:26] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 13:49:26] [INFO] "[originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 13:49:26] [INFO] "[originalform_ideabook]件数(COUNT)：SELECT COUNT(*) FROM `originalform_ideabook`"
+[2020/05/13 13:53:59] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 13:53:59] [INFO] "[originalform_ideabook]SELECT：SELECT * FROM `originalform_ideabook` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 13:55:14] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_ideabook'"
+[2020/05/13 13:56:50] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 13:56:50] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 13:56:50] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
+[2020/05/13 14:21:56] [INFO] "QUERY：SELECT COLUMN_NAME, COLUMN_COMMENT FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = 'webstyle2_noveltybox_new' AND TABLE_NAME = 'originalform_mask'"
+[2020/05/13 14:21:56] [INFO] "[originalform_mask]SELECT：SELECT * FROM `originalform_mask` ORDER BY `ID` ASC LIMIT 50 OFFSET 0"
+[2020/05/13 14:21:56] [INFO] "[originalform_mask]件数(COUNT)：SELECT COUNT(*) FROM `originalform_mask`"
