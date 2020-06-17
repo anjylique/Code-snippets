@@ -16,9 +16,9 @@ require_once 'Check.php';
  *
  * --- メール設定 ---
  * $configParams = array(
- *   'host' => 'hs10.wadax.ne.jp',
- *   'username' => 'pri-test@pripress.co.jp',
- *   'password' => 'pr2726670',
+ *   'host' => '',
+ *   'username' => '',
+ *   'password' => '',
  *   'port' => 587,
  *   'smtpoptions' => array() ---> 下のサンプル
  * );
