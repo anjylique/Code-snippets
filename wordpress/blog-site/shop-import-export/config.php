@@ -24,24 +24,6 @@ if ( strpos( $config_site_url, 'miyagi' ) > -1 ) {
  * for the staging and production
  */
 $config_plugin_path = '';
-if ( strpos( $config_site_url, 'cloud4.pripress.co.jp/wp' ) > -1 ) {
-    $config_plugin_path = '/usr/share/nginx/html/wp/manager/wp-content/plugins/shop-import-export';
-
-} else if ( strpos( $config_site_url, 'cloud4.pripress.co.jp/miyagiwp' ) > -1 ) {
-    $config_plugin_path = '/usr/share/nginx/html/miyagiwp/manager/wp-content/plugins/shop-import-export';
-
-} else if ( strpos( $config_site_url, 'cloud4.pripress.co.jp/saitama' ) > -1 ) {
-    $config_plugin_path = '/usr/share/nginx/html/saitama/manager/wp-content/plugins/shop-import-export';
-
-} else if ( strpos( $config_site_url, 'tokyo.machishiru.jp' ) > -1 ) {
-    $config_plugin_path = '/var/www/vhosts/tokyo.machishiru.jp/manager/wp-content/plugins/shop-import-export';
-
-} else if ( strpos( $config_site_url, 'miyagi.machishiru.jp' ) > -1 ) {
-    $config_plugin_path = '/var/www/vhosts/miyagi.machishiru.jp/manager/wp-content/plugins/shop-import-export';
-
-} else if ( strpos( $config_site_url, 'saitama.machishiru.jp' ) > -1 ) {
-    $config_plugin_path = '/var/www/vhosts/saitama.machishiru.jp/manager/wp-content/plugins/shop-import-export';
-}
 
 /**
  * Which type of site is this
